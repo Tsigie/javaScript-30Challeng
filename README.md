@@ -1,1 +1,0 @@
-# javaScript-30Challeng
